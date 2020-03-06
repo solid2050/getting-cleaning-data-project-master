@@ -1,0 +1,48 @@
+##Description of variables  
+str(tidydata)  
+data.frame:	181 obs. of  81 variables
+
+###code book
+activity:   string, type of activity that is been measured  
+subject:  int, id discipline 
+tBodyAcc-mean()-X,Y,Z:  numeric, mean value of X,Y,Z axis   
+tBodyAcc-std()-X,Y,Z:   numeric, standard deviation of the feature for X,Y,Z axis  
+tGravityAcc-mean()-X,Y,Z:  numeric, mean value of X,Y,Z axis   
+tGravityAcc-std()-X,Y,Z:  numeric,  standard deviation of the feature for X,Y,Z axis  
+tBodyAccJerk-mean()-X,Y,Z:  numeric,  mean value of X,Y,Z axis   
+tBodyAccJerk-std()-X,Y,Z:  numeric, standard deviation of the feature for X,Y,Z axis  
+tBodyGyro-mean()-X,Y,Z:  numeric,  mean value of X,Y,Z axis   
+tBodyGyro-std()-X,Y,Z:  numeric, standard deviation of the feature for X,Y,Z axis  
+tBodyGyroJerk-mean()-X,Y,Z  numeric,  mean value of X,Y,Z axis   
+tBodyGyroJerk-std()-X,Y,Z:  numeric, standard deviation of the feature for X,Y,Z axis  
+tBodyAccMag-mean():  numeric, mean of the measurement  
+tBodyAccMag-std()  numeric,  standard deviation of the measurement  
+tGravityAccMag-mean():  numeric, mean of the measurement  
+GravityAccMag-std():  numeric,  standard deviation of the measurement  
+tBodyAccJerkMag-mean():  numeric, mean of the measurement  
+tBodyAccJerkMag-std():  numeric,  standard deviation of the measurement  
+tBodyGyroMag-mean():  numeric, mean of the measurement  
+tBodyGyroMag-std():   numeric,  standard deviation of the measurement  
+tBodyGyroJerkMag-mean():  numeric, mean of the measurement  
+tBodyGyroJerkMag-std():  numeric,  standard deviation of the measurement  
+fBodyAcc-mean()-X,Y,Z:  numeric,  mean value of X,Y,Z axis   
+fBodyAcc-std()-X,Y,Z;  numeric, standard deviation of the feature for X,Y,Z axis  
+fBodyAcc-meanFreq()-X,Y,Z:  numeric,  mean value of X,Y,Z axis   
+fBodyAccJerk-mean()-X,Y,Z:  numeric,  mean value of X,Y,Z axis   
+fBodyAccJerk-std()-X,Y,Z:  numeric, standard deviation of the feature for X,Y,Z axis  
+fBodyAccJerk-meanFreq()-X,Y,Z:   numeric,  mean value of X,Y,Z axis   
+fBodyGyro-mean()-X,Y,Z:  numeric,  mean value of X,Y,Z axis   
+fBodyGyro-std()-X,Y,Z:  numeric,  mean value of X,Y,Z axis   
+fBodyGyro-meanFreq()-X,Y,Z:   numeric,  mean value of X,Y,Z axis   
+fBodyAccMag-mean():  numeric, mean of the measurement  
+fBodyAccMag-std():  numeric,  standard deviation of the measurement  
+fBodyAccMag-meanFreq():  numeric, mean of the measurement    
+fBodyBodyAccJerkMag-mean():  numeric, mean of the measurement  
+fBodyBodyAccJerkMag-std():  numeric,  standard deviation of the measurement  
+fBodyBodyAccJerkMag-meanFreq():  numeric, mean of the measurement  
+fBodyBodyGyroMag-mean():  numeric, mean of the measurement  
+fBodyBodyGyroMag-std():  numeric,  standard deviation of the measurement  
+fBodyBodyGyroMag-meanFreq():  numeric, mean of the measurement  
+fBodyBodyGyroJerkMag-mean():   numeric, mean of the measurement  
+fBodyBodyGyroJerkMag-std():  numeric,  standard deviation of the measurement  
+fBodyBodyGyroJerkMag-meanFreq():  numeric, mean of the measurement  
